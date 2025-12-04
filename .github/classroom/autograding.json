@@ -63,7 +63,7 @@
     {
       "name": "Test aaaa (encode aaaa.txt)",
       "setup": "",
-      "run": "./ascii85 -e tests/aaaa.txt output && cmp output tests/aaaaa.a85",
+      "run": "./ascii85 -e tests/aaaa.txt output && cmp output tests/aaaa.a85",
       "input": "",
       "output": "",
       "comparison": "include",
